@@ -1,0 +1,5 @@
+fredapi
+matplotlib
+numpy
+pandas
+scipy
