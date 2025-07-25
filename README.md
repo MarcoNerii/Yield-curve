@@ -1,6 +1,6 @@
 # Yield Curve Strategy Research
 
-This project explores the structure and trading opportunities in interest rate markets using yield curve modeling techniques like the Nelson-Siegel model.
+This project explores the structure and trading opportunities in interest rate markets using yield curve modeling techniques.
 
 ## 🧠 Project Goal
 
